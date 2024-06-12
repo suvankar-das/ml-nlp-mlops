@@ -1,0 +1,15 @@
+# Anaconda
+.env
+.env.bak
+.venv
+.venv.bak
+.env/
+.venv/
+venv/
+
+# Conda environment
+conda-meta/
+
+# VS Code
+.vscode/
+.history/
